@@ -46,7 +46,8 @@ Web local funcionando.
 <img width="1917" height="962" alt="imagen" src="https://github.com/user-attachments/assets/db2263b2-92a2-4576-bc0d-5b057f888033" />
 
 Round Robin funcionando.
-<img width="1257" height="567" alt="imagen" src="https://github.com/user-attachments/assets/32457554-62ea-4cde-be2e-3c4eab7d651c" />
+<img width="1452" height="367" alt="imagen" src="https://github.com/user-attachments/assets/9ac7c54b-3fc3-49bc-97e7-d929c81d85a0" />
+<img width="1459" height="351" alt="imagen" src="https://github.com/user-attachments/assets/eaf4c49d-f668-4ba9-b846-56f638dc8417" />
 
 Peticions cache Miss i Hit.
 <img width="1617" height="202" alt="imagen" src="https://github.com/user-attachments/assets/0617583c-6758-4d76-b85a-0bce52591830" />
