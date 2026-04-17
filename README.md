@@ -39,6 +39,15 @@ Aquest projecte implementa una infraestructura de serveis web amb Docker Compose
 
 
 ## Evidències de Funcionament
+Contenedor funcionando.
+<img width="1458" height="155" alt="imagen" src="https://github.com/user-attachments/assets/dfc2ee4e-f549-4ec3-ad5e-e8b2bed95396" />
+
+Web local funcionando.
+<img width="1917" height="962" alt="imagen" src="https://github.com/user-attachments/assets/db2263b2-92a2-4576-bc0d-5b057f888033" />
+
+Round Robin funcionando.
+<img width="1257" height="567" alt="imagen" src="https://github.com/user-attachments/assets/32457554-62ea-4cde-be2e-3c4eab7d651c" />
+
 Peticions cache Miss i Hit.
 <img width="1617" height="202" alt="imagen" src="https://github.com/user-attachments/assets/0617583c-6758-4d76-b85a-0bce52591830" />
 <img width="1238" height="203" alt="imagen" src="https://github.com/user-attachments/assets/caed4061-2a74-4443-90a1-34370a9a9f80" />
