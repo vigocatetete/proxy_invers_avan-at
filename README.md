@@ -35,12 +35,13 @@ Aquest projecte implementa una infraestructura de serveis web amb Docker Compose
       curl -I http://localhost
       ```
     - Busqueu la capçalera `X-Cache-Status`. La primera petició hauria de ser `MISS` i les següents `HIT`.
+
+
+
+## Evidències de Funcionament
+Peticions cache Miss i Hit.
 <img width="1617" height="202" alt="imagen" src="https://github.com/user-attachments/assets/0617583c-6758-4d76-b85a-0bce52591830" />
 <img width="1238" height="203" alt="imagen" src="https://github.com/user-attachments/assets/caed4061-2a74-4443-90a1-34370a9a9f80" />
 <img width="1442" height="193" alt="imagen" src="https://github.com/user-attachments/assets/4c55b7a6-e4c5-4ddb-817b-4f34e0d37720" />
 <img width="1421" height="169" alt="imagen" src="https://github.com/user-attachments/assets/bba7d487-5b5f-42af-b9b3-e625e08f0645" />
 
-
-## Evidències de Funcionament
-
-*(Aquí s'haurien d'adjuntar les captures de pantalla segons la pràctica)*
