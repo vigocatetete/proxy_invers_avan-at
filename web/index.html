@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pràctica Proxy Invers - Nginx</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 50px; }
+        .container { max-width: 800px; margin: auto; border: 1px solid #ccc; padding: 20px; border-radius: 10px; }
+        img { max-width: 100%; height: auto; margin: 20px 0; }
+        video { width: 100%; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Benvinguts a la Pràctica de Proxies amb Nginx</h1>
+        <p>Aquesta pàgina està sent servida per un dels nodes Apache darrere del proxy invers Nginx.</p>
+        
+        <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+            <img src="imatge1.jpg" alt="Imatge de prova 1" style="width: 45%;">
+            <img src="imatge2.jpg" alt="Imatge de prova 2" style="width: 45%;">
+        </div>
+        
+        <p>A continuació es mostra un petit vídeo:</p>
+        <video controls>
+            <source src="video.mp4" type="video/mp4">
+            El teu navegador no suporta el tag de vídeo.
+        </video>
+
+        <p><strong>Configuració:</strong> Load Balancing Round Robin + Proxy Cache.</p>
+    </div>
+</body>
+</html>
